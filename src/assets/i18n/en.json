@@ -1,0 +1,4 @@
+{
+	"WELCOME": "Welcome to Angular",
+	"PROJECT": "This is the project {{ value }}"
+}
